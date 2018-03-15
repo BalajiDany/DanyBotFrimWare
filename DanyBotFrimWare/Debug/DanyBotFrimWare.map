@@ -1,0 +1,876 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+                              main.o (_ZN10DanyBotLed5setUpEv)
+D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+                              main.o (_ZN13DanyBotMotors5setUpEv)
+D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                              main.o (_ZN17DanyBotPushButton5setUpEv)
+D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                              main.o (_ZN12DanyBotTimer5setUpEv)
+D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                              main.o (_ZN17DanyBotLineSensor5setUpEv)
+D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                              main.o (_ZN13DanyBotBuzzer5setUpEv)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o) (__mulsi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o) (__divmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o) (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o) (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o) (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o) (__muluhisi3)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .data          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .bss           0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .text._ZN10DanyBotLed2onEv
+                0x00000000        0x4 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .text._ZN10DanyBotLed3offEv
+                0x00000000        0x4 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .text          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .data          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .bss           0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .text          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .data          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .bss           0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .text          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .data          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .bss           0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .text          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .data          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .bss           0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .text          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .data          0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss           0x00000000        0x0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer9isPlayingEv
+                0x00000000       0x1e D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer4playEPKa
+                0x00000000       0x1a D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer20playFromProgramSpaceEPKa
+                0x00000000       0x1c D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer11stopPlayingEv
+                0x00000000       0x2a D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer9playCheckEv
+                0x00000000       0x2e D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer8playModeEh
+                0x00000000        0xe D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss.buzzerInitialized
+                0x00000000        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xffe
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table._ZN13DanyBotBuzzer8playNoteEhjh
+                0x00000068       0x18 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .progmem.gcc_sw_table._ZL8nextNotev
+                0x00000080       0xac D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x0000012c                . = ALIGN (0x2)
+                0x0000012c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000012c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000012c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000012c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000012c                __ctors_start = .
+ *(.ctors)
+                0x0000012c                __ctors_end = .
+                0x0000012c                __dtors_start = .
+ *(.dtors)
+                0x0000012c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000012c        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000012c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000012c        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000138       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000138                __do_copy_data
+ .init4         0x0000014e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000014e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000015e        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000166        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000166                __vector_22
+                0x00000166                __vector_1
+                0x00000166                __vector_24
+                0x00000166                __vector_12
+                0x00000166                __bad_interrupt
+                0x00000166                __vector_6
+                0x00000166                __vector_3
+                0x00000166                __vector_23
+                0x00000166                __vector_25
+                0x00000166                __vector_11
+                0x00000166                __vector_13
+                0x00000166                __vector_17
+                0x00000166                __vector_19
+                0x00000166                __vector_7
+                0x00000166                __vector_5
+                0x00000166                __vector_4
+                0x00000166                __vector_2
+                0x00000166                __vector_21
+                0x00000166                __vector_15
+                0x00000166                __vector_8
+                0x00000166                __vector_14
+                0x00000166                __vector_10
+                0x00000166                __vector_18
+                0x00000166                __vector_20
+                0x0000016a                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z5setUpv
+                0x0000016a       0x1a main.o
+                0x0000016a                _Z5setUpv
+ .text.main     0x00000184       0x56 main.o
+                0x00000184                main
+ .text._ZN10DanyBotLed5setUpEv
+                0x000001da        0x4 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+                0x000001da                _ZN10DanyBotLed5setUpEv
+ .text._ZN10DanyBotLed6toggleEv
+                0x000001de        0xa D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+                0x000001de                _ZN10DanyBotLed6toggleEv
+ .text._ZN13DanyBotMotors5setUpEv
+                0x000001e8       0x1e D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+                0x000001e8                _ZN13DanyBotMotors5setUpEv
+ .text._ZN13DanyBotMotors13setRightSpeedEj
+                0x00000206       0x22 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+                0x00000206                _ZN13DanyBotMotors13setRightSpeedEj
+ .text._ZN13DanyBotMotors12setLeftSpeedEj
+                0x00000228       0x22 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+                0x00000228                _ZN13DanyBotMotors12setLeftSpeedEj
+ .text._ZN13DanyBotMotors8setSpeedEjj
+                0x0000024a       0x16 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+                0x0000024a                _ZN13DanyBotMotors8setSpeedEjj
+ .text._ZN17DanyBotPushButton5setUpEv
+                0x00000260        0x6 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                0x00000260                _ZN17DanyBotPushButton5setUpEv
+ .text._ZN17DanyBotPushButton9isPressedEv
+                0x00000266        0x8 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                0x00000266                _ZN17DanyBotPushButton9isPressedEv
+ .text._ZN17DanyBotPushButton10isReleasedEv
+                0x0000026e        0xa D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                0x0000026e                _ZN17DanyBotPushButton10isReleasedEv
+ .text._ZN17DanyBotPushButton12waitForPressEv
+                0x00000278       0x20 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                0x00000278                _ZN17DanyBotPushButton12waitForPressEv
+ .text._ZN17DanyBotPushButton14waitForReleaseEv
+                0x00000298       0x20 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                0x00000298                _ZN17DanyBotPushButton14waitForReleaseEv
+ .text._ZN17DanyBotPushButton18waitForSingleClickEv
+                0x000002b8        0xa D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                0x000002b8                _ZN17DanyBotPushButton18waitForSingleClickEv
+ .text._ZN12DanyBotTimer5setUpEv
+                0x000002c2       0x24 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x000002c2                _ZN12DanyBotTimer5setUpEv
+ .text._ZN12DanyBotTimer6millisEv
+                0x000002e6       0x18 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x000002e6                _ZN12DanyBotTimer6millisEv
+ .text._ZN12DanyBotTimer6microsEv
+                0x000002fe       0x4e D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x000002fe                _ZN12DanyBotTimer6microsEv
+ .text._ZN12DanyBotTimer5startEv
+                0x0000034c       0x30 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x0000034c                _ZN12DanyBotTimer5startEv
+ .text._ZN12DanyBotTimer4stopEv
+                0x0000037c        0xc D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x0000037c                _ZN12DanyBotTimer4stopEv
+ .text.__vector_16
+                0x00000388       0x94 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x00000388                __vector_16
+ .text._ZN17DanyBotLineSensor8emiterOnEv
+                0x0000041c       0x10 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x0000041c                _ZN17DanyBotLineSensor8emiterOnEv
+ .text._ZN17DanyBotLineSensor9emiterOffEv
+                0x0000042c       0x10 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x0000042c                _ZN17DanyBotLineSensor9emiterOffEv
+ .text._ZN17DanyBotLineSensor5resetEv
+                0x0000043c       0x36 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x0000043c                _ZN17DanyBotLineSensor5resetEv
+ .text._ZN17DanyBotLineSensor5setUpEv
+                0x00000472        0x8 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x00000472                _ZN17DanyBotLineSensor5setUpEv
+ .text._ZN17DanyBotLineSensor5_readEPj
+                0x0000047a       0xc6 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x0000047a                _ZN17DanyBotLineSensor5_readEPj
+ .text._ZN17DanyBotLineSensor4readEPj
+                0x00000540       0x1a D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x00000540                _ZN17DanyBotLineSensor4readEPj
+ .text._ZN17DanyBotLineSensor9calibrateEv
+                0x0000055a       0xc6 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x0000055a                _ZN17DanyBotLineSensor9calibrateEv
+ .text._ZN17DanyBotLineSensor13readCalibrateEPj
+                0x00000620       0xca D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x00000620                _ZN17DanyBotLineSensor13readCalibrateEPj
+ .text._ZN17DanyBotLineSensor8readLineEPj
+                0x000006ea       0xd8 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x000006ea                _ZN17DanyBotLineSensor8readLineEPj
+ .text._ZL16currentCharacterv
+                0x000007c2       0x48 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZL9getNumberv
+                0x0000080a       0x60 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text._ZN13DanyBotBuzzer5setUpEv
+                0x0000086a       0x20 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x0000086a                _ZN13DanyBotBuzzer5setUpEv
+ .text._ZN13DanyBotBuzzer13playFrequencyEjjh
+                0x0000088a      0x214 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x0000088a                _ZN13DanyBotBuzzer13playFrequencyEjjh
+ .text._ZN13DanyBotBuzzer8playNoteEhjh
+                0x00000a9e      0x112 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x00000a9e                _ZN13DanyBotBuzzer8playNoteEhjh
+ .text._ZL8nextNotev
+                0x00000bb0      0x2a8 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .text.__vector_9
+                0x00000e58       0x98 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x00000e58                __vector_9
+ .text.libgcc.mul
+                0x00000ef0       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x00000ef0                __mulsi3
+ .text.libgcc.div
+                0x00000f10       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000f10                __udivmodhi4
+ .text.libgcc.div
+                0x00000f38       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000f38                __udivmodsi4
+ .text.libgcc.div
+                0x00000f7c       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000f7c                __divmodsi4
+ .text.libgcc.div
+                0x00000faa       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00000faa                __negsi2
+ .text.libgcc   0x00000fba        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000fba                __tablejump2__
+ .text.libgcc.mul
+                0x00000fc6       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000fc6                __umulhisi3
+ .text.libgcc.mul
+                0x00000fe4       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00000fe4                __muluhisi3
+                0x00000ffa                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000ffa        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000ffa                _exit
+                0x00000ffa                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000ffa        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000ffe                _etext = .
+
+.data           0x00800100       0x1a load address 0x00000ffe
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data._ZL6volume
+                0x00800100        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .data._ZL8duration
+                0x00800102        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .data._ZL9note_type
+                0x00800104        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .data._ZL19whole_note_duration
+                0x00800106        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .data._ZL6octave
+                0x00800108        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .data.buzzerFinished
+                0x00800109        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x00800109                buzzerFinished
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZL11cs2_divider
+                0x0080010a       0x10 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ *(.gnu.linkonce.r*)
+                0x0080011a                . = ALIGN (0x2)
+                0x0080011a                _edata = .
+                0x0080011a                PROVIDE (__data_end, .)
+
+.bss            0x0080011a       0x18
+                0x0080011a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZL12timer0_fract
+                0x0080011a        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .bss.timer0_millis
+                0x0080011b        0x4 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x0080011b                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080011f        0x4 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                0x0080011f                timer0_overflow_count
+ .bss._ZZN17DanyBotLineSensor8readLineEPjE13previousValue
+                0x00800123        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .bss.onLine    0x00800125        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x00800125                onLine
+ .bss.calibratedMin
+                0x00800126        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x00800126                calibratedMin
+ .bss.calibratedMax
+                0x00800128        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                0x00800128                calibratedMax
+ .bss._ZL22staccato_rest_duration
+                0x0080012a        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss._ZL8staccato
+                0x0080012b        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss._ZL17use_program_space
+                0x0080012c        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss._ZL17play_mode_setting
+                0x0080012d        0x1 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss._ZL13buzzerTimeout
+                0x0080012e        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+ .bss.buzzerSequence
+                0x00800130        0x2 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                0x00800130                buzzerSequence
+ *(COMMON)
+                0x00800132                PROVIDE (__bss_end, .)
+                0x00000ffe                __data_load_start = LOADADDR (.data)
+                0x00001018                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800132        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800132                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .comment       0x00000030       0x31 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .comment       0x00000030       0x31 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .comment       0x00000030       0x31 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .comment       0x00000030       0x31 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .comment       0x00000030       0x31 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x208
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 main.o
+ .debug_aranges
+                0x00000028       0x38 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .debug_aranges
+                0x00000060       0x38 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_aranges
+                0x00000098       0x48 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_aranges
+                0x000000e0       0x48 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_aranges
+                0x00000128       0x60 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_aranges
+                0x00000188       0x80 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x19d7
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x168 main.o
+ .debug_info    0x0000075c       0xe9 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .debug_info    0x00000845      0x1a9 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_info    0x000009ee      0x257 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_info    0x00000c45      0x1e7 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_info    0x00000e2c      0x53d D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_info    0x00001369      0x66e D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_abbrev   0x00000000      0xddf
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2       0xc6 main.o
+ .debug_abbrev  0x00000668       0x6d D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .debug_abbrev  0x000006d5       0xf9 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_abbrev  0x000007ce      0x11f D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_abbrev  0x000008ed       0xeb D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_abbrev  0x000009d8      0x1e4 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_abbrev  0x00000bbc      0x223 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_line     0x00000000     0x1372
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x13b main.o
+ .debug_line    0x0000026e       0x9e D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .debug_line    0x0000030c      0x153 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_line    0x0000045f      0x1ef D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_line    0x0000064e      0x1f0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_line    0x0000083e      0x415 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_line    0x00000c53      0x71f D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_frame    0x00000000      0x530
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 main.o
+ .debug_frame   0x00000044       0x54 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .debug_frame   0x00000098       0x60 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_frame   0x000000f8       0x74 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_frame   0x0000016c       0x9c D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_frame   0x00000208      0x140 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_frame   0x00000348      0x1e8 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_str      0x00000000      0xd52
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x194 main.o
+                                0x1c8 (size before relaxing)
+ .debug_str     0x0000039c       0xd3 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+                                0x21c (size before relaxing)
+ .debug_str     0x0000046f       0xf7 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+                                0x291 (size before relaxing)
+ .debug_str     0x00000566      0x1b0 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+                                0x346 (size before relaxing)
+ .debug_str     0x00000716      0x110 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+                                0x2b1 (size before relaxing)
+ .debug_str     0x00000826      0x209 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+                                0x411 (size before relaxing)
+ .debug_str     0x00000a2f      0x323 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+                                0x4f2 (size before relaxing)
+
+.debug_loc      0x00000000     0x1379
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x47 main.o
+ .debug_loc     0x00000047       0xf7 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_loc     0x0000013e       0x90 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_loc     0x000001ce      0x169 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_loc     0x00000337      0x535 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_loc     0x0000086c      0xb0d D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1c8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 main.o
+ .debug_ranges  0x00000018       0x28 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLed.o)
+ .debug_ranges  0x00000040       0x28 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotMotors.o)
+ .debug_ranges  0x00000068       0x38 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotPushButton.o)
+ .debug_ranges  0x000000a0       0x38 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotTimer.o)
+ .debug_ranges  0x000000d8       0x80 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotLineSensor.o)
+ .debug_ranges  0x00000158       0x70 D:\Workspace\CPP\dany-bot-frimware\DanyBotFrimWare\DanyBotLibrary\Debug\libDanyBotLibrary.a(DanyBotBuzzer.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(DanyBotFrimWare.elf elf32-avr)
+LOAD linker stubs
