@@ -4,8 +4,8 @@
 #define SERG								_SFR_MEM8(0x5f)
 #define F_CPU								16000000UL
 #define clockCyclesPerMicrosecond()			(F_CPU/1000000)
-#define clockCyclesToMicroseconds(a)		( (a) / clockCyclesPerMicrosecond() )
-#define microsecondsToClockCycles(a)		( (a) * clockCyclesPerMicrosecond() )
+#define clockCyclesToMicroseconds(a)		((a) / clockCyclesPerMicrosecond())
+#define microsecondsToClockCycles(a)		((a) * clockCyclesPerMicrosecond())
 
 #define DEBOUNCE_DELAY						10
 
@@ -27,20 +27,20 @@
 
 #define PLAY_AUTOMATIC						0
 #define PLAY_CHECK							1
-#define NOTE_C(x)							( 0 + (x)*12)
-#define NOTE_C_SHARP(x)						( 1 + (x)*12)
-#define NOTE_D_FLAT(x)						( 1 + (x)*12)
-#define NOTE_D(x)							( 2 + (x)*12)
-#define NOTE_D_SHARP(x)						( 3 + (x)*12)
-#define NOTE_E_FLAT(x)						( 3 + (x)*12)
-#define NOTE_E(x)							( 4 + (x)*12)
-#define NOTE_F(x)							( 5 + (x)*12)
-#define NOTE_F_SHARP(x)						( 6 + (x)*12)
-#define NOTE_G_FLAT(x)						( 6 + (x)*12)
-#define NOTE_G(x)							( 7 + (x)*12)
-#define NOTE_G_SHARP(x)						( 8 + (x)*12)
-#define NOTE_A_FLAT(x)						( 8 + (x)*12)
-#define NOTE_A(x)							( 9 + (x)*12)
+#define NOTE_C(x)							(0 + (x)*12)
+#define NOTE_C_SHARP(x)						(1 + (x)*12)
+#define NOTE_D_FLAT(x)						(1 + (x)*12)
+#define NOTE_D(x)							(2 + (x)*12)
+#define NOTE_D_SHARP(x)						(3 + (x)*12)
+#define NOTE_E_FLAT(x)						(3 + (x)*12)
+#define NOTE_E(x)							(4 + (x)*12)
+#define NOTE_F(x)							(5 + (x)*12)
+#define NOTE_F_SHARP(x)						(6 + (x)*12)
+#define NOTE_G_FLAT(x)						(6 + (x)*12)
+#define NOTE_G(x)							(7 + (x)*12)
+#define NOTE_G_SHARP(x)						(8 + (x)*12)
+#define NOTE_A_FLAT(x)						(8 + (x)*12)
+#define NOTE_A(x)							(9 + (x)*12)
 #define NOTE_A_SHARP(x)						(10 + (x)*12)
 #define NOTE_B_FLAT(x)						(10 + (x)*12)
 #define NOTE_B(x)							(11 + (x)*12)
