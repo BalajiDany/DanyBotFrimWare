@@ -12,5 +12,7 @@ DanyBotMotors\DanyBotMotors.cpp
 
 DanyBotPushButton\DanyBotPushButton.cpp
 
+DanyBotSerial\DanyBotSerial.cpp
+
 DanyBotTimer\DanyBotTimer.cpp
 

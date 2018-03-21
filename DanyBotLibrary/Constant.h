@@ -1,11 +1,43 @@
 #ifndef CONSTANT_H_
 #define CONSTANT_H_
 
+#define MILLI_SECOND						1000
+#define MICRO_SECOND						MILLI_SECOND * 1000
+
 #define SERG								_SFR_MEM8(0x5f)
 #define F_CPU								16000000UL
 #define clockCyclesPerMicrosecond()			(F_CPU/1000000)
 #define clockCyclesToMicroseconds(a)		((a) / clockCyclesPerMicrosecond())
 #define microsecondsToClockCycles(a)		((a) * clockCyclesPerMicrosecond())
+
+
+
+//#define BAUD_RATE							115200
+#define SERIAL_FRAME_ERROR					0x0800
+#define SERIAL_OVERRUN_ERROR				0x0400
+#define SERIAL_BUFFER_OVERFLOW				0x0200
+#define SERIAL_NO_DATA						0x0100
+
+#define SERIAL_TX_BUFFER_SIZE				32
+#define SERIAL_RX_BUFFER_SIZE				32
+#define SERIAL_TX_BUFFER_MASK				(SERIAL_TX_BUFFER_SIZE - 1)
+#define SERIAL_RX_BUFFER_MASK				(SERIAL_RX_BUFFER_SIZE - 1)
+
+#define BAUD_RATE_2400						416
+#define BAUD_RATE_4800						207
+#define BAUD_RATE_9600						103
+#define BAUD_RATE_14400						68
+#define BAUD_RATE_19200						51
+#define BAUD_RATE_28800						34
+#define BAUD_RATE_38400						25
+#define BAUD_RATE_57600						16
+#define BAUD_RATE_76800						12
+#define BAUD_RATE_115200					8
+#define BAUD_RATE_250000					3
+
+#define BAUD_RATE							BAUD_RATE_250000
+
+#define SERIAL_DELAY						(16 * MICRO_SECOND / BAUD_RATE) + 1
 
 #define DEBOUNCE_DELAY						10
 

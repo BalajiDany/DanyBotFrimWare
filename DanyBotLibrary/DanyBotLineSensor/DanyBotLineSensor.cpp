@@ -2,8 +2,8 @@
 #include "../DanyBotTimer/DanyBotTimer.h"
 #include "DanyBotLineSensor.h"
 
-uint16_t *calibratedMax;
-uint16_t *calibratedMin;
+uint16_t calibratedMax[NO_SENSOR];
+uint16_t calibratedMin[NO_SENSOR];
 bool onLine = false;
 
 void DanyBotLineSensor::setUp() {

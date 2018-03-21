@@ -161,6 +161,7 @@
     <Folder Include="DanyBotTimer" />
     <Folder Include="DanyBotLineSensor" />
     <Folder Include="DanyBotBuzzer" />
+    <Folder Include="DanyBotSerial" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constant.h">
@@ -194,6 +195,12 @@
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="DanyBotPushButton\DanyBotPushButton.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="DanyBotSerial\DanyBotSerial.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="DanyBotSerial\DanyBotSerial.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="DanyBotTimer\DanyBotTimer.cpp">

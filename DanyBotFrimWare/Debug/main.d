@@ -18,7 +18,8 @@ main.d main.o: .././main.cpp ../../DanyBotLibrary/Constant.h \
  ../../DanyBotLibrary/DanyBotMotors/DanyBotMotors.h \
  ../../DanyBotLibrary/DanyBotTimer/DanyBotTimer.h \
  ../../DanyBotLibrary/DanyBotLineSensor/DanyBotLineSensor.h \
- ../../DanyBotLibrary/DanyBotBuzzer/DanyBotBuzzer.h
+ ../../DanyBotLibrary/DanyBotBuzzer/DanyBotBuzzer.h \
+ ../../DanyBotLibrary/DanyBotSerial/DanyBotSerial.h
 
 ../../DanyBotLibrary/Constant.h:
 
@@ -61,3 +62,5 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 ../../DanyBotLibrary/DanyBotLineSensor/DanyBotLineSensor.h:
 
 ../../DanyBotLibrary/DanyBotBuzzer/DanyBotBuzzer.h:
+
+../../DanyBotLibrary/DanyBotSerial/DanyBotSerial.h:

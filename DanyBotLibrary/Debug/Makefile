@@ -38,7 +38,8 @@ SUBDIRS :=  \
 ../DanyBotMotors \
 ../DanyBotTimer \
 ../DanyBotLineSensor \
-../DanyBotBuzzer
+../DanyBotBuzzer \
+../DanyBotSerial
 
 
 # Add inputs and outputs from these tool invocations to the build variables 
@@ -48,6 +49,7 @@ C_SRCS +=  \
 ../DanyBotLineSensor/DanyBotLineSensor.cpp \
 ../DanyBotMotors/DanyBotMotors.cpp \
 ../DanyBotPushButton/DanyBotPushButton.cpp \
+../DanyBotSerial/DanyBotSerial.cpp \
 ../DanyBotTimer/DanyBotTimer.cpp
 
 
@@ -63,6 +65,7 @@ DanyBotLed/DanyBotLed.o \
 DanyBotLineSensor/DanyBotLineSensor.o \
 DanyBotMotors/DanyBotMotors.o \
 DanyBotPushButton/DanyBotPushButton.o \
+DanyBotSerial/DanyBotSerial.o \
 DanyBotTimer/DanyBotTimer.o
 
 OBJS_AS_ARGS +=  \
@@ -71,6 +74,7 @@ DanyBotLed/DanyBotLed.o \
 DanyBotLineSensor/DanyBotLineSensor.o \
 DanyBotMotors/DanyBotMotors.o \
 DanyBotPushButton/DanyBotPushButton.o \
+DanyBotSerial/DanyBotSerial.o \
 DanyBotTimer/DanyBotTimer.o
 
 C_DEPS +=  \
@@ -79,6 +83,7 @@ DanyBotLed/DanyBotLed.d \
 DanyBotLineSensor/DanyBotLineSensor.d \
 DanyBotMotors/DanyBotMotors.d \
 DanyBotPushButton/DanyBotPushButton.d \
+DanyBotSerial/DanyBotSerial.d \
 DanyBotTimer/DanyBotTimer.d
 
 C_DEPS_AS_ARGS +=  \
@@ -87,6 +92,7 @@ DanyBotLed/DanyBotLed.d \
 DanyBotLineSensor/DanyBotLineSensor.d \
 DanyBotMotors/DanyBotMotors.d \
 DanyBotPushButton/DanyBotPushButton.d \
+DanyBotSerial/DanyBotSerial.d \
 DanyBotTimer/DanyBotTimer.d
 
 OUTPUT_FILE_PATH +=libDanyBotLibrary.a
@@ -103,6 +109,8 @@ LINKER_SCRIPT_DEP+=
 
 
 # AVR32/GNU C Compiler
+
+
 
 
 
@@ -145,6 +153,13 @@ DanyBotMotors/%.o: ../DanyBotMotors/%.cpp
 	
 
 DanyBotPushButton/%.o: ../DanyBotPushButton/%.cpp
+	@echo Building file: $<
+	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\include"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega328p -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\gcc\dev\atmega328p" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+DanyBotSerial/%.o: ../DanyBotSerial/%.cpp
 	@echo Building file: $<
 	@echo Invoking: AVR8/GNU C Compiler : 5.4.0
 	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe$(QUOTE) -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\include"  -O1 -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -Wall -mmcu=atmega328p -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\gcc\dev\atmega328p" -c -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
